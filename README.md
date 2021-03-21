@@ -7,7 +7,7 @@ Once the question passes the screening for inappropriate content, the question i
 
 All the questions are queued up in a queue and are then presented to the teacher on first come first serve basis. The teacher then has an option to either accept or decline the doubt. Once the question gets the teacher's approval, it is displayed on the screen in a popup box above the whiteboard for better readability. During the explanation of the doubt, the student can ask questions related to that question inside an anonymous chat panel that refreshes after every question.
 
-## Installation
+## Installation:
 To install all the dependencies:
 ```
 npm install
